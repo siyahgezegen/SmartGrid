@@ -1,7 +1,7 @@
 # SmartGrid
  Xamarin Smart Grid : Android
-TR : Ekranın Boyutuna göre şekil alan grid yapısı.
-EN : Grid structure that takes shape according to the Size of the Screen.
+TR : Ekranın Boyutuna göre şekil alan grid yapısı. <br/>
+EN : Grid structure that takes shape according to the Size of the Screen. <br/>
 
 
 <img src="https://user-images.githubusercontent.com/92273328/180167527-b04128c6-5ed8-4826-9d11-6604b3914351.jpg" data-canonical-src="https://user-images.githubusercontent.com/92273328/180167527-b04128c6-5ed8-4826-9d11-6604b3914351.jpg" width="200" height="400" />
